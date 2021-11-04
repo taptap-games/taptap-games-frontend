@@ -1,10 +1,18 @@
 import Head from 'next/head'
-import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 
 export default function Home() {
   return (
-    <div className={styles.container}>
+    <div 
+      className={styles.backgroundContainer} 
+      style={{
+        backgroundImage: "url(./background.jpg)",
+        backgroundRepeat: "no-repeat",
+        backgroundSize: "cover",
+        width: "100%",
+        height: "100%",
+    }}>
+
       <Head>
         <title>DmSroik Games</title>
         
@@ -15,13 +23,9 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className={styles.main}>
-        <Image
-          src="/background.jpg"
-          layout="fill"
-        ></Image>
+      <main className={styles.main}> 
 
-        <div className={styles.grid}>
+        <div className={styles.grid} >
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h2>Documentation &rarr;</h2>
             <p>Find in-depth information about Next.js features and API.</p>
@@ -33,6 +37,7 @@ export default function Home() {
           </a>
 
         </div>
+
       </main>
 
     </div>
