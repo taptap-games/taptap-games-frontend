@@ -1,11 +1,11 @@
 import Head from 'next/head'
-import styles from '../styles/Home.module.css'
+import styles from '../styles/home.module.css'
 
 export default function Home() {
   return (
     <div 
-      className={styles.backgroundContainer} 
       style={{
+        padding: "0 0 0 0",
         backgroundImage: "url(./background.jpg)",
         backgroundRepeat: "no-repeat",
         backgroundSize: "cover",
@@ -24,22 +24,8 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}> 
-
-        <div className={styles.grid} >
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h2>Documentation &rarr;</h2>
-            <p>Find in-depth information about Next.js features and API.</p>
-          </a>
-
-          <a href="https://nextjs.org/learn" className={styles.card}>
-            <h2>Learn &rarr;</h2>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
-          </a>
-
-        </div>
-
+        <h1>Hello</h1>
       </main>
-
     </div>
   )
 }
