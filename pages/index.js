@@ -1,6 +1,6 @@
 import Head from 'next/head'
-import styles from '../styles/main.module.css'
 import Footer from '../components/footer'
+import styles from '../styles/main.module.css'
 
 export default function Home() {
   return (
@@ -27,21 +27,11 @@ export default function Home() {
 
       <main className={styles.main}>
         <div className={styles.about}>
-          <h1 style={{
-            fontSize: "3.5rem",
-            fontWeight: "800",
-            lineHeight: "1",
-            margin: "0 0 1rem 0"
-          }}>
+          <h1>
             DmSroik Games
           </h1>
 
-          <p style={{
-            fontSize: "1rem",
-            fontWeight: "500",
-            lineHeight: "1.5",
-            margin: "0 0 0 0"
-          }}>
+          <p>
             We are young game development studio located in Minsk. We are here to spend your time playing our games 🎮 😍
           </p>
         </div>
