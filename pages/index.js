@@ -1,5 +1,6 @@
 import Head from 'next/head'
-import styles from '../styles/home.module.css'
+import styles from '../styles/main.module.css'
+import Footer from '../components/footer'
 
 export default function Home() {
   return (
@@ -24,7 +25,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}> 
-        <h1>Hello</h1>
+        <Footer/>
       </main>
     </div>
   )

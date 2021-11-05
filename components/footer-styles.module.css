@@ -1,0 +1,22 @@
+
+.footer {
+  margin: 1rem 0 0 0;
+  padding: 1rem 2rem 1rem 2rem;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+
+.footer-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: right;
+}
+
+.footer-link {
+  margin: 0rem 0.75rem;
+  font-weight: 500;
+  font-size: 1rem;
+}

@@ -13,7 +13,6 @@ export default function PrivacyPolicy({ title, content }) {
         <article>
           <DocBody content={content} />
         </article>
-
       </dev>  
     )
 }
