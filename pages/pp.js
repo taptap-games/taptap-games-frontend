@@ -1,14 +1,31 @@
-import Link from "next/link"
+import DocBody from '../components/doc-body'
+import markdownToHtml from '../lib/markdown-to-html'
+import { getDocByPath, ppDocPath } from '../lib/utils'
+import Head from 'next/head'
 
-export default function PrivacyPolicy() {
+export default function PrivacyPolicy({ title, content }) {
     return (
-      <>
-        <h1>Privacy Policy</h1>
-        <h2>
-          <Link href="/">
-            <a>Back to home</a>
-          </Link>
-        </h2>
-      </>
+      <dev>
+        <Head>
+          <title>{title}</title>
+        </Head>
+
+        <article>
+          <DocBody content={content} />
+        </article>
+
+      </dev>  
     )
+}
+
+export async function getStaticProps({ context }) {
+  const doc = getDocByPath(ppDocPath, ['title', 'content'])
+  const content = await markdownToHtml(doc.content || '')
+
+  return {
+    props: {
+      title: doc.title,
+      content: content
+    }
   }
+}
