@@ -5,9 +5,17 @@ export default function Footer() {
   return (
   <div className={styles.footer}>
     <div className={styles["footer-container"]}>
-      <a className={styles["footer-link"]} href="/tos">Terms of Service</a>
-      <a className={styles["footer-link"]} href="/pp">Privacy Policy</a>
-      <a className={styles["footer-link"]} href="mailto:vasili.kazhanouski+business@gmail.com">Contact Us</a>
+      <Link href="/tos">
+        <p className={styles["footer-link"]}>Terms of Use</p>
+      </Link>
+      
+      <Link href="/pp">
+        <p className={styles["footer-link"]}>Privacy Policy</p>
+      </Link>
+
+      <Link href="mailto:vasili.kazhanouski+business@gmail.com">
+        <p className={styles["footer-link"]}>Contact Us</p>
+      </Link>
     </div>
    </div>
   )

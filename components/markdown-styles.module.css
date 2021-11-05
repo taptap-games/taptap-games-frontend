@@ -12,6 +12,7 @@
 .markdown ol,
 .markdown blockquote {
   text-align: left;
+  line-height: 1.5;
 }
 
 .markdown a {
