@@ -10,14 +10,21 @@
 
 .footer-container {
   display: flex;
-  flex-direction: row;
-  flex-wrap: nowrap;
   justify-content: right;
+  flex-direction: row;
 }
 
 .footer-link {
-  margin: 0rem 0.75rem;
+  margin: 0rem 1rem;
   font-weight: 500;
   font-size: 1rem;
   text-decoration: underline;
+  text-align: right;
+}
+
+@media screen and (max-width: 450px) {
+  .footer-container { 
+    flex-direction: column;
+    line-height: 2.0;
+  }
 }

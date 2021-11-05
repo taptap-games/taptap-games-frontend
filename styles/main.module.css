@@ -1,3 +1,10 @@
 .main {
   min-height: 100vh;
 }
+
+.about {
+  text-align: left;
+  max-width: 450px;
+  margin: 0 0 0 0;
+  padding: 6rem 2rem 1rem 5rem;
+}

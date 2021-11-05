@@ -6,15 +6,15 @@ export default function Footer() {
   <div className={styles.footer}>
     <div className={styles["footer-container"]}>
       <Link href="/tos">
-        <p className={styles["footer-link"]}>Terms of Use</p>
+        <a className={styles["footer-link"]}>Terms of Use</a>
       </Link>
       
       <Link href="/pp">
-        <p className={styles["footer-link"]}>Privacy Policy</p>
+        <a className={styles["footer-link"]}>Privacy Policy</a>
       </Link>
 
       <Link href="mailto:vasili.kazhanouski+business@gmail.com">
-        <p className={styles["footer-link"]}>Contact Us</p>
+        <a className={styles["footer-link"]}>Contact Us</a>
       </Link>
     </div>
    </div>
