@@ -12,6 +12,7 @@
   display: flex;
   justify-content: right;
   flex-direction: row;
+  color: rgb(211, 211, 211);
 }
 
 .footer-link {
