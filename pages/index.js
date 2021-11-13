@@ -16,7 +16,7 @@ export default function Home() {
       }}>
 
       <Head>
-        <title>DmSroik Games</title>
+        <title>Sroik Games</title>
 
         <meta property="og:type" content="website" />
         <meta property="og:title" content="DmSroik Games" />
