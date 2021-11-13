@@ -28,11 +28,11 @@ export default function Home() {
       <main className={styles.main}>
         <div className={styles.about}>
           <h1>
-            DmSroik Games
+            Sroik Games
           </h1>
 
           <p>
-            We are young game development studio located in Minsk. We are here to spend your time playing our games 🎮 😍
+          👋 from Sroik & Dmitriy. We are young game development studio located in Minsk. We are here to spend your time playing our games 🎮 😍
           </p>
         </div>
 
