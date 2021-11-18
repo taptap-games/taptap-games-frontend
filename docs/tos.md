@@ -7,7 +7,7 @@ title: Terms of Use
 
 ## Introduction and Acceptance
 
-TapTap Games LLC (“we”, “us” and “our”) offers you access to its interactive online websites, applications and services. These Terms of Use, and any additional terms which might apply to certain products or services, govern your use of our websites (“Website”) or any of our widgets or other applications (“Applications”) – together, our “Services”. Our Services include <https://dmsroikgames.dev/> and all other locations on which we place these Terms of Use. PLEASE READ THESE TERMS OF USE CAREFULLY BEFORE USING OUR SERVICES. BY USING ANY OF OUR SERVICES (OTHER THAN TO READ THESE TERMS OF USE FOR THE FIRST TIME) YOU ARE AGREEING TO COMPLY WITH THESE TERMS OF USE, WHICH MAY CHANGE FROM TIME TO TIME AS SET FORTH IN SECTION TITLED “AMENDMENTS; ADDITIONAL TERMS”. IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS OF USE, DO NOT USE OUR SERVICES.
+TapTap Games LLC (“we”, “us” and “our”) offers you access to its interactive online websites, applications and services. These Terms of Use, and any additional terms which might apply to certain products or services, govern your use of our websites (“Website”) or any of our widgets or other applications (“Applications”) – together, our “Services”. Our Services include <https://taptapgames.dev/> and all other locations on which we place these Terms of Use. PLEASE READ THESE TERMS OF USE CAREFULLY BEFORE USING OUR SERVICES. BY USING ANY OF OUR SERVICES (OTHER THAN TO READ THESE TERMS OF USE FOR THE FIRST TIME) YOU ARE AGREEING TO COMPLY WITH THESE TERMS OF USE, WHICH MAY CHANGE FROM TIME TO TIME AS SET FORTH IN SECTION TITLED “AMENDMENTS; ADDITIONAL TERMS”. IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS OF USE, DO NOT USE OUR SERVICES.
 
 ## Intellectual Property
 
