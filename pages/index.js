@@ -32,7 +32,7 @@ export default function Home() {
           </h1>
 
           <p>
-          Big 👋 from Sroik & Dmitriy. We are young game development studio located in Minsk and our plan is to spend your time playing our games 🎮 😍
+          Big 👋 from <strong>Sroik & Dmitry</strong>. We are young game development studio located in Minsk and our plan is to spend your time playing our games 🎮 😍
           </p>
         </div>
 
