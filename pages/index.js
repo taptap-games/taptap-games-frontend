@@ -16,11 +16,11 @@ export default function Home() {
       }}>
 
       <Head>
-        <title>Sroik Games</title>
+        <title>TapTap Games</title>
 
         <meta property="og:type" content="website" />
-        <meta property="og:title" content="DmSroik Games" />
-        <meta property="og:description" content="Home of DmSroik Games" />
+        <meta property="og:title" content="TapTap Games" />
+        <meta property="og:description" content="Home of TapTap Games" />
 
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -28,11 +28,11 @@ export default function Home() {
       <main className={styles.main}>
         <div className={styles.about}>
           <h1>
-            Sroik Games
+            TapTap Games
           </h1>
 
           <p>
-          👋 from Sroik & Dmitriy. We are young game development studio located in Minsk. We are here to spend your time playing our games 🎮 😍
+          Big 👋 from Sroik & Dmitriy. We are young game development studio located in Minsk and our plan is to spend your time playing our games 🎮 😍
           </p>
         </div>
 

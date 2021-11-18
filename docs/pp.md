@@ -9,11 +9,11 @@ Effective Date: November 4, 2021
 
 Please read this Privacy Policy carefully to understand our policies and practices regarding your Personal Data (as defined below) and how we will treat it.
 
-This Privacy Policy applies to the DmSroik LLC apps, games, websites and related services (together the "Services" or "games", "apps", "websites" for individual categories). This Privacy Policy explains how we, and affiliated companies (collectively, "DmSroik LLC" or "we", "us", "our") collect, use, secure, and/or disclose end users’ ("you" or "your") or otherwise processes your personal information when you use our Services.
+This Privacy Policy applies to the TapTap Games LLC apps, games, websites and related services (together the "Services" or "games", "apps", "websites" for individual categories). This Privacy Policy explains how we, and affiliated companies (collectively, "TapTap Games LLC" or "we", "us", "our") collect, use, secure, and/or disclose end users’ ("you" or "your") or otherwise processes your personal information when you use our Services.
 
-The data controller is DmSroik LLC, with a registered address at prospekt Dzerzhinskogo 3B-58, 6th floor, Minsk, Belarus. DmSroik LLC as Data Controller does not and will not process any special categories of personal data ("sensitive data").
+The data controller is TapTap Games LLC, with a registered address at prospekt Dzerzhinskogo 3B-58, 6th floor, Minsk, Belarus. TapTap Games LLC as Data Controller does not and will not process any special categories of personal data ("sensitive data").
 
-## DmSroik LLC as Data Controller
+## TapTap Games LLC as Data Controller
 
 ### Information and Data We Collect from You
 
@@ -33,7 +33,7 @@ While using our Services, we may ask you to provide us with certain personally i
 
 ### How We Use Your Information
 
-DmSroik LLC's primary goals in using information are to provide Services to you, improve our Service, contact you, conduct marketing and research and create reports for internal use. We store information on servers located in the United States via Amazon Web Services and may store information on servers and equipment in other countries.
+TapTap Games LLC's primary goals in using information are to provide Services to you, improve our Service, contact you, conduct marketing and research and create reports for internal use. We store information on servers located in the United States via Amazon Web Services and may store information on servers and equipment in other countries.
 
 We collect information automatically about your activity through our Services, for example date and time you used a service, features you have used, in-app purchase history, subscriptions, and advertising that you click on, and data generated when you use our Services, for example your game progress which may be stored with your Apple ID on iCloud for iOS Devices in some of our Services. Our Services may also contain tools from third party service providers that may enable these third parties to separately collect and/or analyze non-Personal Data from the users' devices.
 
@@ -51,7 +51,7 @@ We may use your information to:
 
 * Send you related information, including confirmations, invoices, technical notices, updates, push notifications, security alerts, and support and administrative messages
 
-* Communicate with you about promotions, rewards, upcoming events, and other news about products and services offered by DmSroik LLC and our selected partners
+* Communicate with you about promotions, rewards, upcoming events, and other news about products and services offered by TapTap Games LLC and our selected partners
 
 * Link or combine it with other information we get from third parties, to help understand your preferences and provide you with better services.
 
@@ -73,11 +73,11 @@ We and our marketing and outsourcing partners, affiliates, or analytics service 
 
 While you are browsing the Sites, your computer's operating system, Internet Protocol (IP) address, access times, browser type and language and referring Web site addresses may be logged automatically. We may use this information to monitor, develop and analyse your use of the Service.
 
-We may use your email address to contact you about your experience with the Services and notify you about DmSroik LLC news and promotions.
+We may use your email address to contact you about your experience with the Services and notify you about TapTap Games LLC news and promotions.
 
 ### Mobile Applications
 
-When you use any of the DmSroik LLC applications or games on a mobile platform, we may record certain information and data, such as your application usage, access, session times and in-app purchases, your unique device ID (persistent / non-persistent), hardware type, the version of your operating system ("OS"), your device name, and your location (based on your Internet Protocol ("IP") address). This information is useful to us for troubleshooting and helps us understand usage trends and improve and optimize the Services and your user experience, and may also be utilized for interest based advertising as described elsewhere in this Policy.
+When you use any of the TapTap Games LLC applications or games on a mobile platform, we may record certain information and data, such as your application usage, access, session times and in-app purchases, your unique device ID (persistent / non-persistent), hardware type, the version of your operating system ("OS"), your device name, and your location (based on your Internet Protocol ("IP") address). This information is useful to us for troubleshooting and helps us understand usage trends and improve and optimize the Services and your user experience, and may also be utilized for interest based advertising as described elsewhere in this Policy.
 
 We may occasionally send you push notifications through our mobile applications about application updates, new content availability and other service related that may be of importance to you. You may at any time opt-out from receiving these types of communications by turning them off at the device level through your settings.
 
@@ -113,9 +113,9 @@ You may opt-out of receiving promotional emails from us by following the instruc
 
 ## Data Security and Retention Periods
 
-Keeping Personal Data secure is a topmost priority for DmSroik LLC. We do our best to protect your information from unauthorized access or against loss, misuse or alteration by third parties, disclosure and other improper processing activities.
+Keeping Personal Data secure is a topmost priority for TapTap Games LLC. We do our best to protect your information from unauthorized access or against loss, misuse or alteration by third parties, disclosure and other improper processing activities.
 
-We have put in place reasonable and appropriate organisational, technical and physical procedures and safeguards to protect the information we collect and process. These procedures also take into account the type of personal data and the risks related to its possible disclosures. In the following we bring out specific actions with regard to organisational, technical and physical safeguards in place at DmSroik LLC.
+We have put in place reasonable and appropriate organisational, technical and physical procedures and safeguards to protect the information we collect and process. These procedures also take into account the type of personal data and the risks related to its possible disclosures. In the following we bring out specific actions with regard to organisational, technical and physical safeguards in place at TapTap Games LLC.
 
 ### Data Retention
 
@@ -139,13 +139,13 @@ Our Services may contain third party tracking and data collection and analytics 
 
 ### How We May Disclose Your Information to Third Parties
 
-DmSroik LLC does not share your personal information except as approved by you or as described below:
+TapTap Games LLC does not share your personal information except as approved by you or as described below:
 
-* DmSroik LLC may engage other companies and individuals to perform services on our behalf. An example of these services may include analyzing data and providing customer support. These agents and service providers may have access to your personal information in connection with the performance of services for DmSroik LLC.
+* TapTap Games LLC may engage other companies and individuals to perform services on our behalf. An example of these services may include analyzing data and providing customer support. These agents and service providers may have access to your personal information in connection with the performance of services for TapTap Games LLC.
 
-* We may release your information as permitted by law, such as to comply with a subpoena, or when we believe that release is appropriate to comply with the law; investigate fraud, respond to a government request, enforce or apply our rights; or protect the rights, property, or safety of us or our users, or others. This includes exchanging information with other companies and organizations for fraud protection. In certain situations, DmSroik LLC may be required to disclose personal information in response to lawful requests by public authorities or for local law enforcement requirements.
+* We may release your information as permitted by law, such as to comply with a subpoena, or when we believe that release is appropriate to comply with the law; investigate fraud, respond to a government request, enforce or apply our rights; or protect the rights, property, or safety of us or our users, or others. This includes exchanging information with other companies and organizations for fraud protection. In certain situations, TapTap Games LLC may be required to disclose personal information in response to lawful requests by public authorities or for local law enforcement requirements.
 
-* DmSroik LLC may share your information in connection with any merger, sale of our assets, or a financing or acquisition of all or a portion of our business to another company. You will be notified via email and/or notice on our Sites of any change in ownership or users of your personal information.
+* TapTap Games LLC may share your information in connection with any merger, sale of our assets, or a financing or acquisition of all or a portion of our business to another company. You will be notified via email and/or notice on our Sites of any change in ownership or users of your personal information.
 
 We may share aggregate or anonymous information about you with advertisers, publishers, business partners, sponsors, and other third parties.
 

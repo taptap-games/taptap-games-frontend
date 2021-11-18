@@ -13,7 +13,7 @@ export default function Footer() {
         <a className={styles["footer-link"]}>Privacy Policy</a>
       </Link>
 
-      <Link href="mailto:vasili.kazhanouski+business@gmail.com">
+      <Link href="mailto:hello+business@taptapgames.dev">
         <a className={styles["footer-link"]}>Contact Us</a>
       </Link>
     </div>
