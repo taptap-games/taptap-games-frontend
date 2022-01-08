@@ -1,15 +1,15 @@
+#AdMob
+google.com, pub-2282926463385052, DIRECT, f08c47fec0942fa0
+google.com, pub-1680034082323710, DIRECT, f08c47fec0942fa0
+#Facebook
+facebook.com, 487642202583702, RESELLER, c3e20eee3f780d68
+facebook.com, 210590296715919, RESELLER, c3e20eee3f780d68
+
 #Updated December 10rd, 2021
 #Appodeal
 appodeal.com, 140965, RESELLER
 #BidMachine
 bidmachine.io, 140965, RESELLER
-#AdMob
-google.com, pub-2282926463385052, DIRECT, f08c47fec0942fa0
-google.com, pub-1680034082323710, DIRECT, f08c47fec0942fa0
-#Facebook
-#Replace the Business ID below with your Facebook Business ID
-facebook.com, 487642202583702, RESELLER, c3e20eee3f780d68
-facebook.com, 210590296715919, RESELLER, c3e20eee3f780d68
 #AdColony
 adcolony.com, fcaa373cac67c9f927aa914013b8346e, RESELLER, 1ad675c9de6b5176
 #Applovin
@@ -43,6 +43,7 @@ aps.amazon.com, 13277230, RESELLER
 aps.amazon.com, 15083519, RESELLER
 aps.amazon.com, 15323246, RESELLER
 #IronSource
+#You use your own account in IronSource. Reach out to your IronSource AM
 ironsrc.com, 186063, RESELLER, 79929e88b2ba73bc
 ironsrc.com, 228853, RESELLER, 79929e88b2ba73bc
 ironsrc.com, 245431, RESELLER, 79929e88b2ba73bc
