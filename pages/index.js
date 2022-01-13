@@ -21,6 +21,7 @@ export default function Home() {
         <meta property="og:type" content="website" />
         <meta property="og:title" content="TapTap Games" />
         <meta property="og:description" content="Home of TapTap Games" />
+        <meta name="facebook-domain-verification" content="ic8v67iiufrcndb7g9yv215ir6yvm1" />
 
         <link rel="icon" href="/favicon.ico" />
       </Head>
