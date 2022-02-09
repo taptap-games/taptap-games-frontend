@@ -99,7 +99,7 @@ You have the right to request the access and rectification or erasure of persona
 
 * Where the processing of personal data is based on your consent you can withdraw such consent at any time, without affecting the lawfulness of processing based on consent prior to its withdrawal.
 
-Please use <hello+privacy@taptapgames.dev> to exercise all of the aforementioned rights.
+Please use <hello@taptapgames.dev> to exercise all of the aforementioned rights.
 
 You may also contact your local data protection authority within the European Economic Area for unresolved complaints.
 
