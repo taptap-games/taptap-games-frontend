@@ -149,4 +149,4 @@ TO THE EXTENT ALLOWED BY LAW, WE EACH WAIVE ANY RIGHT TO TRIAL BY JURY IN ANY LA
 
 ## Contact Information
 
-TapTap Games is registered at prospekt Dzerzhinskogo 3B-58, 6th floor, Minsk, Belarus. If you have any questions or concerns about our Terms of Use, please contact us at <hello+privacy@taptapgames.dev>
+TapTap Games is registered at prospekt Dzerzhinskogo 3B-58, 6th floor, Minsk, Belarus. If you have any questions or concerns about our Terms of Use, please contact us at <hello@taptapgames.dev>
