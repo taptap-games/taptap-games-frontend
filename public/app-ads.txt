@@ -14,7 +14,7 @@ tapjoy.com, 0334ecebbdb747618bda71bea8321fd4, DIRECT, 29e595b1aeb5904d
 
 
 ################################################################################################
-############ Applovin MAX Updated
+############ Applovin MAX
 # Applovin MAX
 applovin.com, e341aaa2c338f66234d1e84e56801612, DIRECT
 adcolony.com, 5d8cbf6671c93a42, RESELLER, 1ad675c9de6b5176
