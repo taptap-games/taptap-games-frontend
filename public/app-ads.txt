@@ -6,7 +6,7 @@ google.com, pub-1680034082323710, DIRECT, f08c47fec0942fa0
 facebook.com, 487642202583702, RESELLER, c3e20eee3f780d68
 facebook.com, 210590296715919, RESELLER, c3e20eee3f780d68
 # IronSource
-ironsrc.com, [yourironSourcePublisherAccountID], Direct
+ironsrc.com, 290619, Direct
 # Vungle
 vungle.com, 6203985001fa710014f2927e, DIRECT, c107d686becd2d77
 # Tapjoy
