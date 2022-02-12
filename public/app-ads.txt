@@ -24,6 +24,8 @@ pubmatic.com, 159509, RESELLER, 5d62403b186f2ace
 pubnative.net, 1007170, RESELLER, d641df8625486a7b
 Verve.com, 15290, RESELLER, 0c8f5958fc2d6270
 indexexchange.com, 192829, RESELLER, 50b1c356f2c5c8f
+# InMobi
+inmobi.com,fe6dede7c4614ffe84ecb559f52d8891,DIRECT,83e75a7ae333ca9
 
 # Unity Ads
 velismedia.com, 725, RESELLER
