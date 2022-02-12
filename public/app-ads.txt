@@ -13,7 +13,8 @@ vungle.com, 6203985001fa710014f2927e, DIRECT, c107d686becd2d77
 tapjoy.com, 0334ecebbdb747618bda71bea8321fd4, DIRECT, 29e595b1aeb5904d
 # InMobi
 inmobi.com,fe6dede7c4614ffe84ecb559f52d8891,DIRECT,83e75a7ae333ca9
-
+# Pangle Global
+pangleglobal.com, 5002191, DIRECT
 
 ################################################################################################
 ############ Applovin MAX
@@ -26,6 +27,9 @@ pubmatic.com, 159509, RESELLER, 5d62403b186f2ace
 pubnative.net, 1007170, RESELLER, d641df8625486a7b
 Verve.com, 15290, RESELLER, 0c8f5958fc2d6270
 indexexchange.com, 192829, RESELLER, 50b1c356f2c5c8f
+
+# Pangle Global
+pubmatic.com, 161490, RESELLER,5d62403b186f2ace
 
 # InMobi
 openx.com,540401713,RESELLER,6a698e2ec38604c6
